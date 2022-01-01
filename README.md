@@ -23,8 +23,10 @@ Tujuan dibuatnya aplikasi ini adalah untuk mempermudah pengguna dalam melakukan 
 
 •	Tampilan Menu Kalkulator BMI
 
-![image](https://user-images.githubusercontent.com/78699039/147844694-f36da0f3-e71f-4600-9eab-66f3dae585d2.png)
-![image](https://user-images.githubusercontent.com/78699039/147844696-36d34ff1-15df-400e-8c2e-f98ddade7344.png)
+![image](https://user-images.githubusercontent.com/78699039/147844757-34c7394a-0bbc-42a0-abab-9775aa95af9f.png)
+
+![image](https://user-images.githubusercontent.com/78699039/147844743-b8def971-3b8d-4af9-bdf0-a05dbe15d4fb.png)
+
 
 
 •	Tampilan Menu Konversi Bilangan
@@ -34,7 +36,8 @@ Tujuan dibuatnya aplikasi ini adalah untuk mempermudah pengguna dalam melakukan 
 
 •	Tampilan Menu Konversi Mata Uang
 
-![image](https://user-images.githubusercontent.com/78699039/147844717-9693d206-93d6-4bad-bc74-74d503c36afb.png)
+![image](https://user-images.githubusercontent.com/78699039/147844731-c119d784-52e8-41b2-9aa4-8450e8e5ddeb.png)
+
 
 
 
