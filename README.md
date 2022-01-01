@@ -1,5 +1,7 @@
 # Kalkuleta
 
+![Picture1](https://user-images.githubusercontent.com/78699039/147844587-55638a60-96fe-4314-86ef-85b776b0e466.png)
+
 Kalkuleta merupakan aplikasi yang memiliki 3 menu, yaitu menu kalkulator BMI, konversi bilangan, dan konversi mata uang.
 
 Menu kalkulator BMI berfungsi untuk melakukan operasi penghitungan BMI dengan memasukkan umur, tinggi badan, dan berat bedan sehingga nantinya akan memunculkan output berupa hasil penghitungan BMI beserta kategori berat bedan dari pengguna.
