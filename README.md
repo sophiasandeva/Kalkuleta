@@ -1,6 +1,7 @@
 # Kalkuleta
 
-![image](https://user-images.githubusercontent.com/78699039/147844686-cf9b7b54-9bbd-4186-87ec-96d5d6ac97d2.png)
+![image](https://user-images.githubusercontent.com/78699039/147844784-f1a71e5f-7d39-4b80-8741-c628f18fc81a.png)
+
 
 
 Kalkuleta merupakan aplikasi yang memiliki 3 menu, yaitu menu kalkulator BMI, konversi bilangan, dan konversi mata uang.
@@ -18,25 +19,27 @@ Tujuan dibuatnya aplikasi ini adalah untuk mempermudah pengguna dalam melakukan 
 
 •	Tampilan Home
 
-![image](https://user-images.githubusercontent.com/78699039/147844680-3325c0c1-24a0-4eab-9d6b-73da30d666f2.png)
+![image](https://user-images.githubusercontent.com/78699039/147844778-b7cdc6f5-f8cc-45d8-a090-a0c7c5d69c0c.png)
+
 
 
 •	Tampilan Menu Kalkulator BMI
 
-![image](https://user-images.githubusercontent.com/78699039/147844757-34c7394a-0bbc-42a0-abab-9775aa95af9f.png)
+![image](https://user-images.githubusercontent.com/78699039/147844785-98f3def4-11f8-43b2-8055-4b6420eca08a.png)
 
-![image](https://user-images.githubusercontent.com/78699039/147844743-b8def971-3b8d-4af9-bdf0-a05dbe15d4fb.png)
+![image](https://user-images.githubusercontent.com/78699039/147844788-05070c4a-5712-4ba2-8c54-92063b74e45b.png)
 
 
 
 •	Tampilan Menu Konversi Bilangan
 
- ![image](https://user-images.githubusercontent.com/78699039/147844699-70637dc1-3cfa-4943-afb9-a986df1a183d.png)
- 
+ ![image](https://user-images.githubusercontent.com/78699039/147844791-65d4de21-4ee1-4adb-9074-687622845fb3.png)
 
+ 
 •	Tampilan Menu Konversi Mata Uang
 
-![image](https://user-images.githubusercontent.com/78699039/147844731-c119d784-52e8-41b2-9aa4-8450e8e5ddeb.png)
+![image](https://user-images.githubusercontent.com/78699039/147844796-87016fbe-2e68-4625-8b79-371310b6cc84.png)
+
 
 
 
